@@ -1,0 +1,28 @@
+if (args.Length > 3)
+            {
+                if (args.Contains("decompress")) 
+                    operation = "Decompress";
+                else operation = "Compress";
+                if (CorrectString(args[1].ToString()))
+                    firstName = Extract(args[1].ToString());
+                if (CorrectString(args[2].ToString()))
+                    secondName = Extract(args[2].ToString());
+
+                MethodInfo method = Type.GetType("GZipStream.Program").GetMethod(operation);
+                method.Invoke(null, null);
+            }
+
+            Console.WriteLine(operation);
+            Console.WriteLine(firstName);
+            Console.WriteLine(secondName);
+
+private static bool CorrectString(string str)
+        {
+            return str.Contains("[") && str.Contains("]");
+        }
+
+        
+        private static string Extract(string str)
+        {
+            return str.Substring(str.IndexOf('['), str.IndexOf(']') - str.IndexOf('['));
+        }

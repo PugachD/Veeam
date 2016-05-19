@@ -1,0 +1,15 @@
+F:\Veeam\GZipStream\GZipStream\bin\Debug\GZipStream.exe
+F:\Veeam\GZipStream\GZipStream\bin\Debug\GZipStream.pdb
+F:\Veeam\GZipStream\GZipStream\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Veeam\GZipStream\GZipStream\obj\x86\Debug\GZipStream.exe
+F:\Veeam\GZipStream\GZipStream\obj\x86\Debug\GZipStream.pdb
+C:\Documents and Settings\d_i_pugachev\Рабочий стол\Veeam\GZipStream\GZipStream\obj\x86\Debug\GZipStream.exe
+C:\Documents and Settings\d_i_pugachev\Рабочий стол\Veeam\GZipStream\GZipStream\obj\x86\Debug\GZipStream.pdb
+C:\Documents and Settings\d_i_pugachev\Рабочий стол\Veeam\GZipStream\GZipStream\bin\Debug\GZipStream.exe
+C:\Documents and Settings\d_i_pugachev\Рабочий стол\Veeam\GZipStream\GZipStream\bin\Debug\GZipStream.pdb
+C:\Documents and Settings\d_i_pugachev\Рабочий стол\Veeam\GZipStream\GZipStream\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Veeam\GZipStream\GZipStream\obj\x86\Debug\GZipStream.exe
+J:\Veeam\GZipStream\GZipStream\obj\x86\Debug\GZipStream.pdb
+J:\Veeam\GZipStream\GZipStream\bin\Debug\GZipStream.exe
+J:\Veeam\GZipStream\GZipStream\bin\Debug\GZipStream.pdb
+J:\Veeam\GZipStream\GZipStream\obj\x86\Debug\GZipStream.csprojResolveAssemblyReference.cache
